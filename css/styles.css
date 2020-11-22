@@ -1,0 +1,143 @@
+.navbar .nav-link{
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.navbar .nav-item.active{
+    border-left: 2px solid#444 ;
+}
+
+.carousel-item{
+    height: 450px;
+}
+
+.carousel-image-1{
+    background: url('../img/image1.jpg');
+    background-size: cover;
+}
+.carousel-image-2{
+    background: url('../img/image2.jpg');
+    background-size: cover;
+}
+.carousel-image-3{
+    background: url('../img/image3.jpg');
+    background-size: cover;
+}
+
+
+#homeheading{
+    height: 150px;
+    color: white;
+    background: url('/img/lights.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.dark-overlay{
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.lap-word{
+    margin: auto;
+}
+
+#videoplay{
+    position: relative;
+    background: url(/img/media.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+#footer{
+    background-color: black;
+}
+
+
+
+/* /////////////about page///////////// */
+
+#about-head{
+    display: flex;
+    text-align: center;
+    margin-top:50px;
+    height: 200px;
+    position: relative;
+    background: url(/img/image1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.img-fluid-about{
+    width: 80%;
+    margin-top:-50px;
+}
+
+.about-card{
+    border: 0px !important;
+}
+.card-body{
+    border: none;
+    border-radius: 5px;
+}
+
+
+#service-head{
+    display: flex;
+    text-align: center;
+    margin-top:50px;
+    height: 200px;
+    position: relative;
+    background: url(/img/image2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.service-card{
+    border-radius: 5px;
+}
+
+.service-cards .card-header{
+    background-color: rgba(0,0,0,0.7) !important;
+}
+
+#blog-head{
+    display: flex;
+    text-align: center;
+    margin-top:50px;
+    height: 200px;
+    position: relative;
+    background: url(/img/image2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#contact-head{
+    display: flex;
+    text-align: center;
+    margin-top:50px;
+    height: 200px;
+    position: relative;
+    background: url(/img/image3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.lead{
+    font-size: 15px !important;
+}
+
+.w{
+    width: 48% !important;
+}

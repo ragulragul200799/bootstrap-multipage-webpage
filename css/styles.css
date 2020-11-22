@@ -70,7 +70,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url('..img/image1.jpg');
+    background: url('../img/image1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -96,7 +96,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url('..img/image2.jpg');
+    background: url('../img/image2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -128,7 +128,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url('..img/image3.jpg');
+    background: url('../img/image3.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;

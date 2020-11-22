@@ -29,7 +29,7 @@
 #homeheading{
     height: 150px;
     color: white;
-    background: url('/img/lights.jpg');
+    background: url('../img/lights.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
@@ -49,7 +49,7 @@
 
 #videoplay{
     position: relative;
-    background: url(/img/media.jpg);
+    background: url('../img/media.jpg');
     height: 150px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -70,7 +70,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url(img/image1.jpg);
+    background: url('..img/image1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -96,7 +96,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url(img/image2.jpg);
+    background: url('..img/image2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -116,7 +116,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url(img/image2.jpg);
+    background: url('../img/image2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -128,7 +128,7 @@
     margin-top:50px;
     height: 200px;
     position: relative;
-    background: url(img/image3.jpg);
+    background: url('..img/image3.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
